@@ -58,7 +58,7 @@ public class clientWidow extends javax.swing.JFrame {
             }
             else{
                 while (!socket.isConnected()){
-                    socket = new Socket("186.94.122.156", 3000);
+                    socket = new Socket("190.39.89.26", 3000);
                 }
                 out = new DataOutputStream(socket.getOutputStream());
                 out.writeUTF(username);
