@@ -20,7 +20,7 @@ import java.util.logging.Logger;
  */
 public class dataBaseConn {
     private Connection conn;
-    private String URL = "jdbc:postgresql://186.93.213.32:5432/usersdata";
+    private String URL = "jdbc:postgresql://190.39.89.26:5432/usersdata";
     private String User = "postgres";
     private String Pass = "JeSuS20o*";
     private String Driver = "org.postgresql.Driver";
