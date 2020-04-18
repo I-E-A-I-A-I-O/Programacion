@@ -48,7 +48,7 @@ public class clientWidow extends javax.swing.JFrame {
     public void conn(){
         try{
             log.append("Client started. Connecting to the server...\n");
-            socket = new Socket("186.93.213.32", 3000);
+            socket = new Socket("190.39.89.26", 3000);
             if (socket.isConnected()){
                 out = new DataOutputStream(socket.getOutputStream());
                 out.writeUTF(username);
