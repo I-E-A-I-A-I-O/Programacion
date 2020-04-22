@@ -15,7 +15,7 @@ public class dbTable {
     private JScrollPane scp;
     private JFrame frame;
     private Connection conn;
-    private String URL = "jdbc:postgresql://186.91.59.230:5432/usersdata";
+    private String URL = "jdbc:postgresql://186.93.209.225:5432/usersdata";
     private String User = "postgres";
     private String Pass = "JeSuS20o*";
     private String Driver = "org.postgresql.Driver";
