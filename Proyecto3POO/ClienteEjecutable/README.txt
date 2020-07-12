@@ -1,1 +1,0 @@
-Se ejecuta cliente.exe
