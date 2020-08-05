@@ -14,3 +14,8 @@ En el comando GetSentence, uno de los parametros es el nombre de la tabla en la 
 PROYECTO 5
 
 El programa fue hecho de tal manera de que se pueda editar el valor maximo que pueden alcanzar las barras sin necesidad de tener que editar todo el codigo, simplemente se cambia dicho valor directamente. Fuera de eso no hay mucho que comentar, hace lo que se pidio.
+
+
+PROYECTO CHAT
+
+El cliente se debe ejecutar desde Cliente.jar (no Client.jar), el servidor desde Server.jar. Se necesita conexion a internet activa para que el programa se pueda conectar a la base de datos
